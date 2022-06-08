@@ -30,3 +30,5 @@
 .form-control.invalid label{
   color: red;
 }
+
+@media (min-width:768px)
