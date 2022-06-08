@@ -55,3 +55,7 @@ const App = () => {
 };
 
 export default App;
+
+
+
+// 78. Styled Components & Dynamic Props
